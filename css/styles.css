@@ -352,6 +352,7 @@ body {
 .hero-background {
   padding-top: 188px;
   padding-bottom: 188px;
+  margin: auto;
 
   /* background-color: #2e2f42; */
 
@@ -360,12 +361,12 @@ body {
       rgba(46, 47, 66, 0.7)
     ),
     url(../images/people-office\ .jpg);
-  background-repeat: no-repeat;
-  /* height: 600px; */
-  /* max-width: 1440px; */
-  background-position: center;
 
+  height: 600px;
+  max-width: 1440px;
   background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .hero-title {
