@@ -654,6 +654,39 @@ body {
   height: 88px;
   border: 1px solid #8e8f99;
   border-radius: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.section4-icon-1 {
+  width: 41px;
+  height: 47px;
+}
+
+.section4-icon-2 {
+  width: 40px;
+  height: 52px;
+}
+
+.section4-icon-3 {
+  width: 44px;
+  height: 41px;
+}
+
+.section4-icon-4 {
+  width: 84px;
+  height: 41px;
+}
+
+.section4-icon-5 {
+  width: 63px;
+  height: 45px;
+}
+
+.section4-icon-6 {
+  width: 94px;
+  height: 44px;
 }
 
 /* /Section 4 */
