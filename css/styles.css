@@ -593,6 +593,10 @@ body {
   align-items: center;
 }
 
+.social-list-item1:hover {
+  background-color: #434455;
+}
+
 .social-list-item2 {
   display: flex;
   width: 40px;
@@ -601,6 +605,10 @@ body {
   border-radius: 50%;
   justify-content: center;
   align-items: center;
+}
+
+.social-list-item2:hover {
+  background-color: #434455;
 }
 
 .social-list-item3 {
@@ -613,6 +621,10 @@ body {
   align-items: center;
 }
 
+.social-list-item3:hover {
+  background-color: #434455;
+}
+
 .social-list-item4 {
   display: flex;
   width: 40px;
@@ -621,6 +633,10 @@ body {
   border-radius: 50%;
   justify-content: center;
   align-items: center;
+}
+
+.social-list-item4:hover {
+  background-color: #434455;
 }
 
 /* /Section 3*/
@@ -759,6 +775,14 @@ body {
   border-radius: 50%;
   justify-content: center;
   align-items: center;
+}
+
+.footer-icons:hover {
+  background-color: #8e8f99;
+}
+
+.footer-icons :focus {
+  background-color: #8e8f99;
 }
 
 .footer-icon-1 {
