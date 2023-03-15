@@ -207,6 +207,7 @@ body {
   background: #404bbf;
   box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 2px 1px rgba(0, 0, 0, 0.08),
     0px 2px 2px rgba(0, 0, 0, 0.12);
+  border: none;
 }
 
 .button-item2 {
@@ -230,6 +231,7 @@ body {
   background: #404bbf;
   box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 2px 1px rgba(0, 0, 0, 0.08),
     0px 2px 2px rgba(0, 0, 0, 0.12);
+  border: none;
 }
 
 .button-item3 {
@@ -253,6 +255,7 @@ body {
   background: #404bbf;
   box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 2px 1px rgba(0, 0, 0, 0.08),
     0px 2px 2px rgba(0, 0, 0, 0.12);
+  border: none;
 }
 
 .button-item4 {
@@ -276,6 +279,7 @@ body {
   background: #404bbf;
   box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 2px 1px rgba(0, 0, 0, 0.08),
     0px 2px 2px rgba(0, 0, 0, 0.12);
+  border: none;
 }
 
 .button-item5 {
@@ -299,6 +303,7 @@ body {
   background: #404bbf;
   box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 2px 1px rgba(0, 0, 0, 0.08),
     0px 2px 2px rgba(0, 0, 0, 0.12);
+  border: none;
 }
 
 /* /Button list */
@@ -456,18 +461,9 @@ body {
 }
 
 .section1-icons {
-  width: 60px;
+  width: 64px;
   height: 64px;
 }
-
-/* .sect1-item1::before {
-  content: "";
-  height: 112px;
-  background: #f4f4fd;
-  border-radius: 4px;
-  display: block;
-  margin-bottom: 8px;
-} */
 
 /* /Section 1 */
 
@@ -512,13 +508,6 @@ body {
 .team-text-box {
   padding: 32px 16px;
 }
-
-/* .section3-list {
-  display: flex;
-  gap: 24px;
-  justify-content: center;
-  margin: 0;
-} */
 
 .main-section3-h2 {
   font-size: 36px;
@@ -582,6 +571,10 @@ body {
   width: 16px;
   height: 16px;
 }
+
+/* .social-link-item {
+  fill: currentColor;
+} */
 
 .social-list-item1 {
   display: flex;
@@ -679,6 +672,10 @@ body {
   width: 41px;
   height: 47px;
 }
+
+/* .section4-icon-1 {
+  fill: currentColor;
+} */
 
 .section4-icon-2 {
   width: 40px;
